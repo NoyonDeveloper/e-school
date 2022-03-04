@@ -1,0 +1,137 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand img{
+    width: 170px;
+}
+.nav-link{
+    color: black;
+}
+.active-btn{
+    background-color: #21B573;
+    border-radius: 15px;
+    border: none;
+    padding: 0 0;
+}
+.active-btn a {
+    color: white;
+}
+.head-img{
+    width: 100%;
+}
+
+h1{
+    font-weight: 700;
+}
+.head-text{
+    color: #21B573;
+}
+.pcolor{
+    color: #6C6B6B;
+    font-size: 14px;
+}
+.btn-button{
+    background-color: #21B573;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 25px;
+    font-size: 14px;
+    margin-top: 15px;
+}
+.header-banner{
+    background-color: #F0FFF0;
+    padding-bottom: 40px;
+}
+.banner-sec{
+    padding-top: 55px;
+}
+.cardimg img{
+    width: 25%;
+    text-align: center;
+    margin: auto;
+}
+.cardimg{
+    text-align: center;
+    border: none;
+    padding: 24px 15px;
+    border-radius: 10px;
+}
+.learn{
+    background-color: #F8FFFB;
+}
+.learn-highlite{
+    box-shadow: 5px 5px 30px gray;
+}
+.online{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.online h2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.buy{
+    padding: 8px 15px;
+}
+.byep{
+    color: #6C6B6B;
+    font-size: 14px;
+    margin-top: 25px;
+}
+.online-card{
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+    border: none;
+    padding: 15px 20px;
+}
+.testimonial{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.testimonial h2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+.man img{
+    width: 30%;
+}
+.testmonial-sec{
+    margin-top: 50px;
+}
+.footer-area{
+    background-color: #282531;
+    padding: 40px 10px;
+}
+.footer-area ul{
+    padding: 0;
+    margin: 0;
+}
+.footer-area ul li{
+    list-style: none;
+}
+.footer-area ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+.footer-area ul li a:hover{
+    text-decoration: underline;
+}
+.footer-area h5{
+    color: white;
+}
+.footer-area p{
+    color: white;
+    font-size: 14px;
+}
+.footer-area .copyright{
+    color: wheat;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: -33px;
+    font-size: 13px;
+}
